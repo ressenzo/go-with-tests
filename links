@@ -3,3 +3,9 @@ https://go.dev/doc/modules/gomod-ref
 
 Fmt's printing verbs:
 https://pkg.go.dev/fmt#hdr-Printing
+
+Suggestions to set up a go project
+https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project
+
+Names result parameters
+https://go.dev/wiki/CodeReviewComments#named-result-parameters
