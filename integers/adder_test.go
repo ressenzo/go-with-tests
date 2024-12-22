@@ -19,3 +19,5 @@ func ExampleAdd() {
 	fmt.Println(sum)
 	// Output: 6
 }
+
+// To run example functions, go test -v
