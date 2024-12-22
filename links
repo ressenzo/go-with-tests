@@ -10,5 +10,8 @@ https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project
 Names result parameters
 https://go.dev/wiki/CodeReviewComments#named-result-parameters
 
-Examples of for
+Examples of "for"
 https://gobyexample.com/for
+
+Benchmarks in go
+https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
